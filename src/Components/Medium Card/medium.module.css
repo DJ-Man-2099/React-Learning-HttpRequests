@@ -1,0 +1,28 @@
+.Layout{
+    margin: auto;
+    width: 60%;
+    background-color: white;
+    padding: 20px 1%;
+    border: 2px solid gainsboro;
+    box-shadow: 0px 4px 7px gainsboro;
+    border-radius: 5px;
+}
+
+.ButtonText{
+    color: red;
+}
+
+.Button{
+    background-color: white;
+    border: 0;
+}
+
+.Header{
+    font-weight: bold;
+    margin: 5px;
+}
+
+.Text{
+    font-weight: 500;
+    margin: 20px;
+}

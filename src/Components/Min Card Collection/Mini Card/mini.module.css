@@ -1,0 +1,27 @@
+.Layout{
+    margin: 10px;
+    width: 125px;
+    background-color: white;
+    padding: 20px 1%;
+    border: 2px solid gainsboro;
+    box-shadow: 0px 4px 7px gainsboro;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.Layout:hover,
+.Layout:active {
+    background-color: #C0DDF5;
+}
+
+.Header{
+    font-weight: bold;
+    margin: 25% 0px 25%;
+}
+
+.Text{
+    color: gainsboro;
+    font-weight: 500;
+    margin: 10px  0px 0px;
+}
